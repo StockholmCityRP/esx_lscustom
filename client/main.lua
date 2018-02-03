@@ -50,7 +50,7 @@ function OpenLSMenu(elems, menuname, menutitle, parent)
 		'default', GetCurrentResourceName(), menuname,
 		{
 			title = menutitle,
-			align = 'top-left',
+			align = 'bottom-right',
 			elements = elems
 		},
 		function(data, menu) -- on validate

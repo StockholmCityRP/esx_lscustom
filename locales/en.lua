@@ -6,7 +6,7 @@ Locales['en'] = {
 	['purchased'] = 'you have purchased the mod!',
 	['press_custom'] = 'press ~INPUT_PICKUP~ to personalize your vehicle.',
 	['level'] = 'level ',
-	['xenon'] = 'neon',
+	['neon'] = 'neon',
 	['not_owner'] = 'this vehicle does ~r~not~w~ belong to you, you can only ~y~modify~w~ vehicles you own',
 -- Paint Colors
 	-- Black

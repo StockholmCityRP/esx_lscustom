@@ -1,6 +1,6 @@
-Config              = {}
-Config.DrawDistance = 100.0
-Config.Locale = 'en'
+Config                 = {}
+Config.DrawDistance    = 100.0
+Config.Locale          = 'en'
 Config.IsMecanoJobOnly = false
 
 Config.Zones = {
@@ -477,7 +477,7 @@ Config.Menus = {
 		label = _U('armor'),
 		parent = 'upgrades',
 		modType = 16,
-		price = {69.77, 116.28, 6666666.6, 6666666.6, 6666666.6, 6666666.6}
+		price = {69.77, 116.28, 130.00, 150.00, 180.00, 190.00}
 	},
 	modTurbo = {
 		label = _U('turbo'),

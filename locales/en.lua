@@ -1,12 +1,13 @@
 Locales['en'] = {
-
 	['by_default'] = 'default',
 	['installed'] = 'installed',
 	['already_own'] = 'you already own: ~b~',
 	['not_enough_money'] = 'you do not have enough money!',
-	['purchased'] = 'purchased!',
+	['purchased'] = 'you have purchased the mod!',
 	['press_custom'] = 'press ~INPUT_PICKUP~ to personalize your vehicle.',
 	['level'] = 'level ',
+	['xenon'] = 'neon',
+	['not_owner'] = 'this vehicle does ~r~not~w~ belong to you, you can only ~y~modify~w~ vehicles you own',
 -- Paint Colors
 	-- Black
 	['black'] = 'black',

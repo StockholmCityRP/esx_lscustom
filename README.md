@@ -1,5 +1,8 @@
-# fxserver-esx_lscustom
+# esx_lscustom
 
 [DESCRIPTION]
 
-The best LS Custom out there for FX.
+The best LS customs out there for FX.
+
+### License
+The project is licensed under GPLv3
